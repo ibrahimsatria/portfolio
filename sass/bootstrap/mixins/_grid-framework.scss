@@ -25,7 +25,8 @@
     $list: "#{$list}, .col-#{$class}-#{$i}";
   }
   #{$list} {
-    float: left;
+    text-align: center;
+    justify-content: center;
   }
 }
 
