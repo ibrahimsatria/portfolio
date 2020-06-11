@@ -1290,4 +1290,10 @@ input[type="text"] {
   opacity: 0;
 }
 
+.header-link {
+  color: #000;
+  text-decoration: none;
+}
+
+
 /*# sourceMappingURL=style.css.map */
